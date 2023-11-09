@@ -22,9 +22,16 @@ body {
   text-align: end;
   margin-bottom: 40px;
   margin-right: 20px;
-  font-size: xx-large;
+  font-size: 50px;
 }
 .calculator button {
+  width: 25%;
+  height: 4rem;
+}
+#is {
+  padding-top: 1rem;
+  background-color: aquamarine;
+  text-align: center;
   width: 25%;
   height: 4rem;
 }
