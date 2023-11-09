@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 body {
   background-color: #11191f;
@@ -12,4 +13,18 @@ body {
 }
 .calculator {
   display: flex;
+  width: 400px;
+  flex-wrap: wrap;
+}
+.display {
+  width: 100%;
+  color: aliceblue;
+  text-align: end;
+  margin-bottom: 40px;
+  margin-right: 20px;
+  font-size: xx-large;
+}
+.calculator button {
+  width: 25%;
+  height: 4rem;
 }
