@@ -32,7 +32,9 @@ body {
 }
 #is {
   padding-top: 1rem;
-  background-color: aquamarine;
+  background-color: rgb(95, 95, 95);
+  color: aliceblue;
+  border: 1px solid #11191f;
   text-align: center;
   width: 25%;
   height: 4rem;
