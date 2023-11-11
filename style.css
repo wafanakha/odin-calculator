@@ -27,6 +27,8 @@ body {
 .calculator button {
   width: 25%;
   height: 4rem;
+  background-color: rgb(184, 184, 186);
+  border: 1px solid;
 }
 #is {
   padding-top: 1rem;
